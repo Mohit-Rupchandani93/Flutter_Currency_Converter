@@ -14,5 +14,3 @@ A simple Flutter application that converts currencies using [ExchangeRate-API](h
 - On startup, the app fetches latest currency rates for the default "USD".
 - User can enter an amount and select currencies to convert between.
 - Swap currencies using the arrow icon.
-
-
